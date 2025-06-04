@@ -1,0 +1,18 @@
+{
+    "name": "Ethan Nguyen",
+    "graduation_year": 2029,
+    "education": "Bachelor of Science in Aerospace Engineering - University of Colorado Boulder",
+    "yoe": 2,
+    "gpa": 3.88,
+    "email": "e.nguyen@example.edu",
+    "phone": "303-555-7890",
+    "initial_score": 4.5,
+    "notes": "Ethan's resume demonstrates a strong academic background in aerospace engineering, with a high GPA and relevant coursework.  However, his experience is heavily focused on aerospace and lacks direct full-stack web development experience required for this Software Engineer I role.  His technical skills are impressive, but not directly transferable.  His projects showcase strong problem-solving abilities and technical skills, but do not align with the job description's requirements.  Consider whether his transferable skills (e.g., Git, AWS, problem-solving) are sufficient to warrant further consideration.",
+    "phone_screen": "not completed",
+    "status": "new",
+    "secondary_score": 0,
+    "location": "Ethan_Nguyen_1.pdf",
+    "file_name": "Ethan_Nguyen_1.pdf",
+    "technical_skills": "Python, MATLAB, C++, FORTRAN, Simulink, ANSYS, SolidWorks, Git, Docker, AWS, ROS, LabVIEW, STK, OpenVSP",
+    "UID": 55
+}
