@@ -73,14 +73,14 @@ Recruitment often involves sifting through hundreds of resumes, conducting repet
 ![1](/dashboard1.png)
 
  - ### Add Candiadte
-Upload candidate's resumes
+   - Upload candidate's resumes
 ![2](/upload.png)
 
  - ### Candidates whose resumes are uploaded
 ![3](/candidates.png)
 
  - ### More info option
-Shows brief summary in form of academic information, professional details, contact information and evaluation details
+   -- Shows brief summary in form of academic information, professional details, contact information and evaluation details
 ![4](/moreinfo.png)
 
  - ### Resume attribute from more info option
