@@ -8,6 +8,7 @@ Recuria is a smart web application designed to revolutionize the traditional hir
 
 Recruitment often involves sifting through hundreds of resumes, conducting repetitive interviews, and manually handling candidate communication. **Recuria** solves this by acting as an intelligent hiring assistant that helps HR teams make **faster**, **smarter**, and **bias-free** hiring decisions.
 
+_Homepage's long view_
 ![1](/1.png)
 ![2](/2.png)
 ![3](/3.png)
