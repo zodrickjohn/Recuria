@@ -80,15 +80,15 @@ Recruitment often involves sifting through hundreds of resumes, conducting repet
 ![3](/candidates.png)
 
  - ### More info option
-   -- Shows brief summary in form of academic information, professional details, contact information and evaluation details
+   - Shows brief summary in form of academic information, professional details, contact information and evaluation details
 ![4](/moreinfo.png)
 
  - ### Resume attribute from more info option
-Shows the resume of the given candidate
+   - Shows the resume of the given candidate
 ![5](/resume.png)
 
  - ### Ask AI attribute from more info option
-Ask any question about the given candidate's background, experience, or qualifications, etc which are mentioned in its resume
+   - Ask any question about the given candidate's background, experience, or qualifications, etc which are mentioned in its resume
 ![6](/askai.png)
 
 ### Features in Developemnt
@@ -112,4 +112,4 @@ Ask any question about the given candidate's background, experience, or qualific
 ---
 
 ## Note
-The project is in development stage
+_The project is in development stage_
