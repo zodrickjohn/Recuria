@@ -69,30 +69,30 @@ Recruitment often involves sifting through hundreds of resumes, conducting repet
 
 ## Dashboard page
 
-### Dashboard page view
+ - ### Dashboard page view
 ![1](/dashboard1.png)
 
-### Add Candiadte
+ - ### Add Candiadte
 Upload candidate's resumes
 ![2](/upload.png)
 
-### Candidates whose resumes are uploaded
+ - ### Candidates whose resumes are uploaded
 ![3](/candidates.png)
 
-### More info option
+ - ### More info option
 Shows brief summary in form of academic information, professional details, contact information and evaluation details
 ![4](/moreinfo.png)
 
-### Resume attribute from more info option
+ - ### Resume attribute from more info option
 Shows the resume of the given candidate
 ![5](/resume.png)
 
-### Ask AI attribute from more info option
+ - ### Ask AI attribute from more info option
 Ask any question about the given candidate's background, experience, or qualifications, etc which are mentioned in its resume
 ![6](/askai.png)
 
 ### Features in Developemnt
- - Feature of calling the candidate with its given phone no. in resume and ask him/her questions regarding job and evaluating them is in development stage
+ - Calling the candidate with its given phone no. in resume and ask him/her questions regarding job and evaluating them
 
 ### Pending Features 
  - Making an video call to candidate and evaluating them based on tone and emotion analysis while answering the HR's questions
