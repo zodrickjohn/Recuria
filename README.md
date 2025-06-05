@@ -65,4 +65,8 @@ Recruitment often involves sifting through hundreds of resumes, conducting repet
 1. Clone the repo  
    ```bash
    git clone https://github.com/your-username/recuria.git
-   cd recuria
+   cd recuria```
+
+---
+
+The project is in development stage
