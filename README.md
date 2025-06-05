@@ -8,6 +8,8 @@ Recuria is a smart web application designed to revolutionize the traditional hir
 
 Recruitment often involves sifting through hundreds of resumes, conducting repetitive interviews, and manually handling candidate communication. **Recuria** solves this by acting as an intelligent hiring assistant that helps HR teams make **faster**, **smarter**, and **bias-free** hiring decisions.
 
+![Demo](/homepage.gif)
+
 ---
 
 ## ⚙️ How It Works
@@ -65,8 +67,10 @@ Recruitment often involves sifting through hundreds of resumes, conducting repet
 1. Clone the repo  
    ```bash
    git clone https://github.com/your-username/recuria.git
-   cd recuria```
+   cd recuria
+   ```
 
 ---
 
+## Note
 The project is in development stage
